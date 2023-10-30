@@ -1,0 +1,17 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>Main</Name>
+  <DisplayName>Главная версия</DisplayName>
+  <Description>Основная версия продукта</Description>
+  <Version>0.1.0-1</Version>
+  <ReleaseDate>2023-10-30</ReleaseDate>
+  <UpdateFile OS="Any" CompressedSize="2732413" UncompressedSize="8681145"/>
+  <DownloadableArchives>content.7z</DownloadableArchives>
+  <SHA1>5474fe1f880d691854ccb419f8c6c75bb5471afe</SHA1>
+ </PackageUpdate>
+ <SHA1>9ec2d25ac219478f9e01704aca041e6eeb67c7e3</SHA1>
+ <MetadataName>2023-10-30-1126_meta.7z</MetadataName>
+</Updates>
